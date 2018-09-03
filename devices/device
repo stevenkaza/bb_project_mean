@@ -1,0 +1,8 @@
+{
+  "_id": <ObjectId>,
+  "type": <string>,
+  "state": {
+    "sensorType": <string>,
+    "work": <string>
+  }
+}
