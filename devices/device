@@ -3,6 +3,5 @@
   "type": <string>,
   "state": {
     "sensorType": <string>,
-    "work": <string>
   }
 }

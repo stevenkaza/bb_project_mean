@@ -37,8 +37,10 @@
     "seed:test": "gulp seed:test"
   },
   "dependencies": {
+    "@angular/http": "^6.1.6",
     "acl": "^0.4.11",
     "amazon-s3-uri": "0.0.3",
+    "angular2-jwt": "^0.2.3",
     "async": "~2.5.0",
     "aws-sdk": "^2.123.0",
     "body-parser": "^1.18.2",
